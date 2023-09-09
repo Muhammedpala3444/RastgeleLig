@@ -1,0 +1,16 @@
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\bin\Debug\RastgeleLig.exe.config
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\bin\Debug\RastgeleLig.exe
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\bin\Debug\RastgeleLig.pdb
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\RastgeleLig.csprojAssemblyReference.cache
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\RastgeleLig.Form1.resources
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\RastgeleLig.Form2.resources
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\RastgeleLig.Properties.Resources.resources
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\RastgeleLig.csproj.GenerateResource.cache
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\RastgeleLig.csproj.CoreCompileInputs.cache
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\RastgeleLig.exe
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\RastgeleLig.pdb
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\bin\Debug\Interop.WMPLib.dll
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\bin\Debug\AxInterop.WMPLib.dll
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\Interop.WMPLib.dll
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\AxInterop.WMPLib.dll
+D:\MuhammedCalismalar2\RastgeleLig\RastgeleLig\obj\Debug\RastgeleLig.csproj.ResolveComReference.cache
